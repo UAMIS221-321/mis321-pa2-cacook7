@@ -1,0 +1,15 @@
+/Users/alabamafan1200/Documents/GitHub/mis321-pa2-cacook7/obj/Debug/net5.0/mis321-pa2-cacook7.csproj.AssemblyReference.cache
+/Users/alabamafan1200/Documents/GitHub/mis321-pa2-cacook7/obj/Debug/net5.0/mis321-pa2-cacook7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alabamafan1200/Documents/GitHub/mis321-pa2-cacook7/obj/Debug/net5.0/mis321-pa2-cacook7.AssemblyInfoInputs.cache
+/Users/alabamafan1200/Documents/GitHub/mis321-pa2-cacook7/obj/Debug/net5.0/mis321-pa2-cacook7.AssemblyInfo.cs
+/Users/alabamafan1200/Documents/GitHub/mis321-pa2-cacook7/obj/Debug/net5.0/mis321-pa2-cacook7.csproj.CoreCompileInputs.cache
+/Users/alabamafan1200/Documents/GitHub/mis321-pa2-cacook7/bin/Debug/net5.0/mis321-pa2-cacook7.deps.json
+/Users/alabamafan1200/Documents/GitHub/mis321-pa2-cacook7/bin/Debug/net5.0/mis321-pa2-cacook7.runtimeconfig.json
+/Users/alabamafan1200/Documents/GitHub/mis321-pa2-cacook7/bin/Debug/net5.0/mis321-pa2-cacook7.runtimeconfig.dev.json
+/Users/alabamafan1200/Documents/GitHub/mis321-pa2-cacook7/bin/Debug/net5.0/mis321-pa2-cacook7.dll
+/Users/alabamafan1200/Documents/GitHub/mis321-pa2-cacook7/bin/Debug/net5.0/ref/mis321-pa2-cacook7.dll
+/Users/alabamafan1200/Documents/GitHub/mis321-pa2-cacook7/bin/Debug/net5.0/mis321-pa2-cacook7.pdb
+/Users/alabamafan1200/Documents/GitHub/mis321-pa2-cacook7/obj/Debug/net5.0/mis321-pa2-cacook7.dll
+/Users/alabamafan1200/Documents/GitHub/mis321-pa2-cacook7/obj/Debug/net5.0/ref/mis321-pa2-cacook7.dll
+/Users/alabamafan1200/Documents/GitHub/mis321-pa2-cacook7/obj/Debug/net5.0/mis321-pa2-cacook7.pdb
+/Users/alabamafan1200/Documents/GitHub/mis321-pa2-cacook7/obj/Debug/net5.0/mis321-pa2-cacook7.genruntimeconfig.cache
