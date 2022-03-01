@@ -7,7 +7,7 @@ namespace mis321_pa2_cacook7
 	{
 		public string Attack()
 		{
-			return "You attacked with a canon fire!";
+			return "You attacked with a cannon fire!";
 		}
 	}
 }
